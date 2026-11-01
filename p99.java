@@ -10,7 +10,7 @@ class p99
     b=sc.nextInt();
     c=sc.nextInt();
     sum=a+b+c;
-    if(sum==0 && a>0 && b>0 && c>0)
+    if(sum==100 && a>0 && b>0 && c>0)
      {
       System.out.println("Traingle is Valid");
 
